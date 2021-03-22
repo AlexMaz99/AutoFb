@@ -6,7 +6,7 @@
 [![](https://img.shields.io/badge/facebook_sdk-3.1.0-orange)](https://pypi.org/project/facebook-sdk/)
 [![](https://img.shields.io/badge/djongo-1.3.1-yellow)](https://pypi.org/project/djongo/)
 [![](https://img.shields.io/badge/dnspython-1.16.0-lightgrey)](https://pypi.org/project/dnspython/)
-[![](https://img.shields.io/badge/Pillow-7.1.2-brown)](https://pypi.org/project/Pillow/)
+[![](https://img.shields.io/badge/Pillow-8.1.1-brown)](https://pypi.org/project/Pillow/)
 
 Page used for automating tasks when managing pages, such as storing not allowed words, that with a push of a button are localized in comments and deleted in choosen post or all posts, liking all comments, deleteting and posting posts. You can also view statistics that are not avaible in facebook such as top 5 most commented, shared and liked posts or top 5 most active commenters.
 
